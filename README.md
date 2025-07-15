@@ -67,6 +67,6 @@ Recuerda que cada test aprobado sumará a tu nota final.
 | Nota final calculada automáticamente | -         |
 
 DEBERA EJECUTAR con el listado DESDE APP.java.
-
+![alt text](image.png)
 
 
